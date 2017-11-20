@@ -1,0 +1,17 @@
+
+bin/Debug/Microsoft.ReportViewer.Common.dll
+bin/Debug/Microsoft.ReportViewer.ProcessingObjectModel.DLL
+bin/Debug/Report/zljefxbReport.rdlc
+bin/Debug/ReportViewDemo.exe
+bin/Debug/ReportViewDemo.pdb
+*.config
+*.manifest
+*.exe
+*.txt
+*.cache
+*.pdb
+DLL/Microsoft.ReportViewer.ProcessingObjectModel.DLL
+DLL/Microsoft.ReportViewer.WinForms.dll
+*.compiled
+*.suo
+DLL/Microsoft.ReportViewer.Common.dll
